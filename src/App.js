@@ -9,8 +9,7 @@ class App extends React.Component {
     
     this.state = {
       monsters: [],
-      searchField: ''
-    }
+      searchField: '' }
   }
 
   componentDidMount() {
